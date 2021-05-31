@@ -1,7 +1,7 @@
 # Animated Curved Navigation Bar | <img src="https://img.shields.io/badge/Build-with%20Flutter-blue"> | <img src="https://img.shields.io/badge/%20Build%20with-Dart%20Programming%20Language-blue">
 
 
-Hi there, this is my first Flutter project.The code for this app has been written in Android Studio with Dart Programming Language.
+Hi there, this is my new Flutter project.The code for this app has been written in Android Studio with Dart Programming Language.
 
 ## App Video
 
