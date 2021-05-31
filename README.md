@@ -1,16 +1,9 @@
-# curved_navigation_bar
+# Animated Curved Navigation Bar | <img src="https://img.shields.io/badge/Build-with%20Flutter-blue"> | <img src="https://img.shields.io/badge/%20Build%20with-Dart%20Programming%20Language-blue">
 
-A new Flutter project.
 
-## Getting Started
+Hi there, this is my first Flutter project.The code for this app has been written in Android Studio with Dart Programming Language.
 
-This project is a starting point for a Flutter application.
+## App Video
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/76481422/120204977-15831e80-c232-11eb-8a6c-9960c6d9642b.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
